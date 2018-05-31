@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1525906846 source:d:\fci\graphics\graphics\line clipping - cohen\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<math.h>
+

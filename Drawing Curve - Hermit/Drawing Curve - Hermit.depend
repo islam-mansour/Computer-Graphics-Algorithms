@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1525872695 source:d:\fci\graphics\graphics\drawing curve - hermit\main.cpp
+	<tchar.h>
+	<windows.h>
+	<math.h>
+	<iostream>
+
